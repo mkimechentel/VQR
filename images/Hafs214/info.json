@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 17,
+    "height" : 22
+  }, {
+    "width" : 34,
+    "height" : 43
+  }, {
+    "width" : 67,
+    "height" : 85
+  }, {
+    "width" : 133,
+    "height" : 170
+  }, {
+    "width" : 265,
+    "height" : 339
+  }, {
+    "width" : 530,
+    "height" : 677
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 530,
+  "@id" : "https://mkimechentel.github.io/VQR/images/Hafs214",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 677
+}
