@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 530,
+    "id" : "https://mkimechentel.github.io/VQR/images/Hafs214/canvas/",
+    "label" : {
+      "none" : [ "Hafs214" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://mkimechentel.github.io/VQR/images/Hafs214/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://mkimechentel.github.io/VQR/images/Hafs214/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 17,
+              "height" : 22
+            }, {
+              "width" : 34,
+              "height" : 43
+            }, {
+              "width" : 67,
+              "height" : 85
+            }, {
+              "width" : 133,
+              "height" : 170
+            }, {
+              "width" : 265,
+              "height" : 339
+            }, {
+              "width" : 530,
+              "height" : 677
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 530,
+            "@id" : "https://mkimechentel.github.io/VQR/images/Hafs214",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 677
+          } ],
+          "format" : "image/jpeg",
+          "width" : 530,
+          "id" : "https://mkimechentel.github.io/VQR/images/Hafs214/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 677
+        },
+        "target" : "https://mkimechentel.github.io/VQR/images/Hafs214/canvas/"
+      } ]
+    } ],
+    "height" : 677
+  }, {
     "width" : 471,
     "id" : "https://mkimechentel.github.io/VQR/images/Hafs_2_85/canvas/",
     "label" : {
